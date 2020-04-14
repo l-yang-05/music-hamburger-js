@@ -27,7 +27,7 @@ body{
     top:0;
     right: -300px;
     margin: 0;
-    transition: right 100ms cubic-bezier(1, 0, 0, 1);
+    transition: right .5s cubic-bezier(1, 0, 0, 1);
 }
 
 .logo{
@@ -73,7 +73,7 @@ header{
 
 .change .hamburger--container{
     background-color: transparent;
-    transition: ease-in-out 100ms;
+    transition: ease-in-out .3s;
 }
 
 .line{
