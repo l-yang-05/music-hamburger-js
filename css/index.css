@@ -76,7 +76,7 @@ header{
     transition: ease-in-out .3s;
 }
 
-.line{
+.hamburger--line{
     background-color: red;
     width: 100%;
     height:5px;
